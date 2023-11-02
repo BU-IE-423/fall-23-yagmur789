@@ -1,13 +1,11 @@
 ## Welcome to GitHub Page by Yağmur Özdemir For IE423
 
 ### Links 
-Project Part 1 
+#### Project Part 1 
 
-[HTML link](https://bu-ie-423.github.io/fall-23-yagmur789/project-part1.html)
+Here is our code as an HTML file. You can find the HTML link [here](https://bu-ie-423.github.io/fall-23-yagmur789/project-part1.html)
 
-You can use the [editor on GitHub](https://github.com/BU-IE-423/fall-23-ilaydacelenkk/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here is our code as an ipynb file. You can find the link [here](https://bu-ie-423.github.io/fall-23-yagmur789/project-part1.ipynb)
 
 ### Markdown
 
