@@ -7,6 +7,12 @@ Here is our code as an HTML file. You can find the HTML link [here](https://bu-i
 
 Here is our code as an ipynb file. You can find the link [here](https://bu-ie-423.github.io/fall-23-yagmur789/project-part1.ipynb)
 
+
+#### Project Part 2 
+Here is our code as an HTML file. You can find the HTML link [here](https://bu-ie-423.github.io/fall-23-yagmur789/ie423-project_part2.html)
+
+Here is our code as an ipynb file. You can find the link [here](https://bu-ie-423.github.io/fall-23-yagmur789/ie423-project_part2.ipynb)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
