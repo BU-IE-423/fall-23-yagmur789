@@ -13,6 +13,12 @@ Here is our code as an HTML file. You can find the HTML link [here](https://bu-i
 
 Here is our code as an ipynb file. You can find the link [here](https://bu-ie-423.github.io/fall-23-yagmur789/ie423-project_part2.ipynb)
 
+
+#### Project Part 3 
+Here is our code as an HTML file. You can find the HTML link [here](https://bu-ie-423.github.io/fall-23-yagmur789/ie423-projectpart3-final.html)
+
+Here is our code as an ipynb file. You can find the link [here](https://bu-ie-423.github.io/fall-23-yagmur789/ie423-projectpart3-final.ipynb)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
